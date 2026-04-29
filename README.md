@@ -80,7 +80,8 @@ Power BI – Data visualization & forecasting
 
 📸 Dashboard Preview
 
-(Add your dashboard screenshots here – including Forecast page)
+[Dashboard Preview](https://github.com/nikhilkumar02811-code/SUPERSTORE-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.png)
+
 
 
 💡 Business Recommendations
