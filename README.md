@@ -102,3 +102,8 @@ Aspiring Data Analyst
 
 If you like this project, give it a ⭐ on GitHub!
 
+<img width="877" height="495" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/2628dfdb-c8a6-4c58-b411-bb97ab0fa406" />
+
+
+
+
