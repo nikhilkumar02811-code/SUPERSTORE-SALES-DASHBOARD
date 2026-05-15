@@ -105,5 +105,9 @@ If you like this project, give it a ⭐ on GitHub!
 <img width="877" height="495" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/2628dfdb-c8a6-4c58-b411-bb97ab0fa406" />
 
 
+<img width="874" height="498" alt="Snapshot of the Dashboard (2)" src="https://github.com/user-attachments/assets/775c6f1a-5c79-40d1-9480-8fa8dead621f" />
+
+
+
 
 
